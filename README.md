@@ -38,9 +38,9 @@
   - 전체 이미지 자동 세그멘테이션과 클릭 기반 포인트 세그멘테이션 지원
   - 객체별 차별화된 색상 시각화
   
-  **예시 결과**
-  - 전체 세그멘테이션: ![Full Segmentation](sample_images/segmentation/full_segmentation.png)
-  - 포인트 기반 세그멘테이션: ![Point-based Segmentation](sample_images/segmentation/point-based_segmentation.png)
+  ### **결과 예시**
+  - **Full Segmentation** ![Full Segmentation](sample_images/segmentation/full_segmentation.png)
+  - **Point-based Segmentation** ![Point-based Segmentation](sample_images/segmentation/point-based_segmentation.png)
   
 ## 📌 Image Generation
 - [**Stable Diffusion** 텍스트 기반 이미지 생성](Image_Generation/Stable_Diffusion_v1_4_Text_to_Image_Generation.ipynb)
