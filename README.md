@@ -43,7 +43,7 @@
   - **Point-based Segmentation** ![Point-based Segmentation](sample_images/segmentation/point-based_segmentation.png)
 
 ## 📌 Multi-modal AI
-- [**BLIP** Vision-Language 모델](Vision_LLM/blip_interactive.py)
+- [**BLIP** Vision-Language 모델](Multi-modal/blip_interactive.py)
   - Vision-Language 모델인 BLIP을 활용한 Image Captioning과 Visual Question Answering (VQA)
   - PyQt5 GUI 인터페이스 제공
   - 실시간 이미지 로드 및 분석, 다양한 사전 정의된 질문 템플릿 지원
