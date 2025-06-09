@@ -41,6 +41,17 @@
   ### **결과 예시**
   - **Full Segmentation** ![Full Segmentation](sample_images/segmentation/full_segmentation.png)
   - **Point-based Segmentation** ![Point-based Segmentation](sample_images/segmentation/point-based_segmentation.png)
+
+## 📌 Multi-modal AI
+- [**BLIP** Vision-Language 모델](Vision_LLM/blip_interactive.py)
+  - Vision-Language 모델인 BLIP을 활용한 Image Captioning과 Visual Question Answering (VQA)
+  - PyQt5 GUI 인터페이스 제공
+  - 실시간 이미지 로드 및 분석, 다양한 사전 정의된 질문 템플릿 지원
+  - CPU 환경에서 사용 가능
+  
+  ### **결과 예시**
+  - **Image Captioning** ![BLIP Caption](sample_images/multi-modal/blip_caption.png)
+  - **Visual Question Answering** ![BLIP VQA](sample_images/multi-modal/blip_vqa.png)
   
 ## 📌 Image Generation
 - [**Stable Diffusion** 텍스트 기반 이미지 생성](Image_Generation/Stable_Diffusion_v1_4_Text_to_Image_Generation.ipynb)
